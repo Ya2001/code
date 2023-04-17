@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src='https://d3js.org/d3.v7.min.js'></script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class = "container" id="container">
+            <script src="script.js"></script>
+            <h1> Wolf of <br> Watt <br> Street </h1>
+            <p> Are movie critics actually as critical of movies as they say? <br> Are audiences hard to please or are critics just too easily pleased? </p>
+            <form name="form1" id="form1" action="/action_page.php">
+                <select name="year" id="year">
+                    <option value="x" selected="selected"> Select a year to start </option>
+                    <option value="2019"> 2019 </option>
+                    <option value="2018"> 2018 </option>
+                    <option value="2017"> 2017 </option>
+                    <option value="2016"> 2016 </option>
+                    <option value="2015"> 2015 </option>
+                    <option value="2014"> 2014 </option>
+                    <option value="2013"> 2013 </option>
+                    <option value="2012"> 2012 </option>
+                  </select></form>
+        </div>
+        <div id = "scatter-plots"></div>
+        <div id = "bar-charts">
+            <p id = "bars">
+                For this bar chart I have split every movie in a year into one of 2 catagories,<br>
+                movies where the critic score is higher than the audience score, and movies where <br>
+                the audience score is greater than the critic score. After this, I counted the amount of <br>
+                movies in each of those catagories that won an oscar and plotted that.<span style="color: rgba(246, 194, 52, 0.631);"> From this we see that <br>
+                movies that have higher critic ratings are far more likely to win an oscar than movies that <br>
+                have higher audience ratings.</span>
+            </p>
+        </div>
+        <div id = "don-chart"><p> I found the difference in the bar graph really intersting. So to investigate I made this lollipop graph. In the graph I have <br>
+            plotted the number of movies where the critic score is higher than the audience score, and the number of movies where <br>
+            the audience score is greater than the critic score. We can see that critic ratings for movies is far often higher than the audience <br> rating for movies.</p></div>
+    </body>
+</html>

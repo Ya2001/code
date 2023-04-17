@@ -1,0 +1,227 @@
+title,year,critic_score,people_score,box_office,film,winner,category
+Avengers: Endgame,2019,94,90,$858.4M,Avengers: Endgame,FALSE,VISUAL EFFECTS
+Parasite,2019,98,90,$53.4M,Parasite,TRUE,BEST PICTURE
+Toy Story 4,2019,97,94,$434.0M,Toy Story 4,TRUE,ANIMATED FEATURE FILM
+Pain and Glory,2019,96,91,$4.6M,Pain and Glory,FALSE,INTERNATIONAL FEATURE FILM
+Judy,2019,81,85,$24.3M,Judy,TRUE,ACTRESS IN A LEADING ROLE
+Knives Out,2019,97,92,$165.4M,Knives Out,FALSE,WRITING (Original Screenplay)
+How to Train Your Dragon: The Hidden World,2019,90,86,$160.8M,How to Train Your Dragon: The Hidden World,FALSE,ANIMATED FEATURE FILM
+Missing Link,2019,88,67,$16.6M,Missing Link,FALSE,ANIMATED FEATURE FILM
+1917,2019,89,88,$159.2M,1917,TRUE,CINEMATOGRAPHY
+The Lighthouse,2019,90,72,$10.9M,The Lighthouse,FALSE,CINEMATOGRAPHY
+I Lost My Body,2019,96,83,,I Lost My Body,FALSE,ANIMATED FEATURE FILM
+A Shaun the Sheep Movie: Farmageddon,2019,96,80,,A Shaun the Sheep Movie: Farmageddon,FALSE,ANIMATED FEATURE FILM
+Klaus,2019,94,96,,Klaus,FALSE,ANIMATED FEATURE FILM
+Collective,2019,99,92,,Collective,FALSE,DOCUMENTARY (Feature)
+The Irishman,2019,95,86,,The Irishman,FALSE,ACTOR IN A SUPPORTING ROLE
+Marriage Story,2019,94,85,,Marriage Story,TRUE,ACTRESS IN A SUPPORTING ROLE
+Border,2018,97,76,$771.9K,Border,FALSE,MAKEUP AND HAIRSTYLING
+Black Panther,2018,96,79,$700.2M,Black Panther,TRUE,COSTUME DESIGN
+A Quiet Place,2018,96,82,$68.4M,A Quiet Place,FALSE,SOUND EDITING
+Avengers: Infinity War,2018,85,91,$678.8M,Avengers: Infinity War,FALSE,VISUAL EFFECTS
+Incredibles 2,2018,93,84,$608.6M,Incredibles 2,FALSE,ANIMATED FEATURE FILM
+BlacKkKlansman,2018,96,83,$48.6M,BlacKkKlansman,TRUE,WRITING (Adapted Screenplay)
+First Man,2018,87,67,$44.8M,First Man,TRUE,VISUAL EFFECTS
+Cold War,2018,92,81,$4.6M,Cold War,FALSE,FOREIGN LANGUAGE FILM
+The Favourite,2018,93,69,$34.2M,The Favourite,TRUE,ACTRESS IN A LEADING ROLE
+Isle of Dogs,2018,90,87,$31.9M,Isle of Dogs,FALSE,ANIMATED FEATURE FILM
+Shoplifters,2018,99,91,$3.3M,Shoplifters,FALSE,FOREIGN LANGUAGE FILM
+A Star Is Born,2018,90,79,$215.3M,A Star Is Born,TRUE,MUSIC (Original Song)
+Ralph Breaks the Internet,2018,88,65,$201.1M,Ralph Breaks the Internet,FALSE,ANIMATED FEATURE FILM
+Spider-Man: Into the Spider-Verse,2018,97,93,$190.2M,Spider-Man: Into the Spider-Verse,TRUE,ANIMATED FEATURE FILM
+Free Solo,2018,97,93,$17.5M,Free Solo,TRUE,DOCUMENTARY (Feature)
+RBG,2018,93,79,$14.0M,RBG,FALSE,DOCUMENTARY (Feature)
+Minding the Gap,2018,100,92,,Minding the Gap,FALSE,DOCUMENTARY (Feature)
+Roma,2018,95,72,,Roma,TRUE,FOREIGN LANGUAGE FILM
+The Ballad of Buster Scruggs,2018,89,77,,The Ballad of Buster Scruggs,FALSE,COSTUME DESIGN
+Faces Places,2017,99,89,$952.7K,Faces Places,FALSE,DOCUMENTARY (Feature)
+Blade Runner 2049,2017,88,81,$91.5M,Blade Runner 2049,TRUE,CINEMATOGRAPHY
+The Post,2017,88,73,$81.4M,The Post,FALSE,ACTRESS IN A LEADING ROLE
+The Shape of Water,2017,92,72,$63.3M,The Shape of Water,TRUE,BEST PICTURE
+Star Wars: The Last Jedi,2017,90,42,$620.2M,Star Wars: The Last Jedi,FALSE,MUSIC (Original Score)
+Loveless,2017,95,83,$564.1K,Loveless,FALSE,FOREIGN LANGUAGE FILM
+The Florida Project,2017,96,80,$5.8M,The Florida Project,FALSE,ACTOR IN A SUPPORTING ROLE
+Lady Bird,2017,99,79,$48.9M,Lady Bird,FALSE,BEST PICTURE
+The Big Sick,2017,98,88,$42.9M,The Big Sick,FALSE,WRITING (Original Screenplay)
+Guardians of the Galaxy Vol. 2,2017,85,87,$389.8M,Guardians of the Galaxy Vol. 2,FALSE,VISUAL EFFECTS
+The Breadwinner,2017,95,87,$302.9K,The Breadwinner,FALSE,ANIMATED FEATURE FILM
+"I, Tonya",2017,90,88,$30.0M,"I, Tonya",TRUE,ACTRESS IN A SUPPORTING ROLE
+Logan,2017,93,90,$226.3M,Logan,FALSE,WRITING (Adapted Screenplay)
+Coco,2017,97,94,$210.5M,Coco,TRUE,ANIMATED FEATURE FILM
+The Disaster Artist,2017,91,85,$21.1M,The Disaster Artist,FALSE,WRITING (Adapted Screenplay)
+Phantom Thread,2017,91,71,$20.9M,Phantom Thread,TRUE,COSTUME DESIGN
+A Fantastic Woman,2017,94,78,$2.0M,A Fantastic Woman,TRUE,FOREIGN LANGUAGE FILM
+Dunkirk,2017,92,81,$188.0M,Dunkirk,TRUE,FILM EDITING
+Call Me by Your Name,2017,94,86,$18.0M,Call Me by Your Name,TRUE,WRITING (Adapted Screenplay)
+Get Out,2017,98,86,$176.0M,Get Out,TRUE,WRITING (Original Screenplay)
+War for the Planet of the Apes,2017,94,84,$146.8M,War for the Planet of the Apes,FALSE,VISUAL EFFECTS
+Baby Driver,2017,92,86,$107.8M,Baby Driver,FALSE,FILM EDITING
+Strong Island,2017,100,57,,Strong Island,FALSE,DOCUMENTARY (Feature)
+The Red Turtle,2016,93,81,$920.1K,The Red Turtle,FALSE,ANIMATED FEATURE FILM
+I Am Not Your Negro,2016,99,83,$7.1M,I Am Not Your Negro,FALSE,DOCUMENTARY (Feature)
+Kubo and the Two Strings,2016,97,86,$48.0M,Kubo and the Two Strings,FALSE,ANIMATED FEATURE FILM
+Manchester by the Sea,2016,96,78,$47.7M,Manchester by the Sea,TRUE,ACTOR IN A LEADING ROLE
+The Jungle Book,2016,94,86,$364.0M,The Jungle Book,TRUE,VISUAL EFFECTS
+The Salesman,2016,96,84,$3.4M,The Salesman,TRUE,FOREIGN LANGUAGE FILM
+My Life as a Zucchini,2016,99,89,$292.3K,My Life as a Zucchini,FALSE,ANIMATED FEATURE FILM
+Moonlight,2016,98,79,$27.9M,Moonlight,TRUE,ACTOR IN A SUPPORTING ROLE
+Florence Foster Jenkins,2016,87,68,$27.4M,Florence Foster Jenkins,FALSE,ACTRESS IN A LEADING ROLE
+Hell or High Water,2016,97,88,$27.0M,Hell or High Water,FALSE,BEST PICTURE
+Moana,2016,95,89,$248.8M,Moana,FALSE,MUSIC (Original Song)
+Doctor Strange,2016,89,85,$232.6M,Doctor Strange,FALSE,VISUAL EFFECTS
+Hidden Figures,2016,93,93,$169.3M,Hidden Figures,FALSE,WRITING (Adapted Screenplay)
+La La Land,2016,90,81,$151.1M,La La Land,TRUE,ACTRESS IN A LEADING ROLE
+Arrival,2016,94,82,$100.5M,Arrival,TRUE,SOUND EDITING
+Toni Erdmann,2016,93,73,$1.5M,Toni Erdmann,FALSE,FOREIGN LANGUAGE FILM
+Zootopia,2016,98,92,,Zootopia,TRUE,ANIMATED FEATURE FILM
+Amy,2015,95,87,$8.4M,Amy,TRUE,DOCUMENTARY (Feature)
+Bridge of Spies,2015,90,87,$72.3M,Bridge of Spies,TRUE,ACTOR IN A SUPPORTING ROLE
+The Hateful Eight,2015,74,76,$54.1M,The Hateful Eight,TRUE,MUSIC (Original Score)
+Sicario,2015,92,85,$46.9M,Sicario,FALSE,CINEMATOGRAPHY
+Spotlight,2015,97,93,$45.0M,Spotlight,TRUE,BEST PICTURE
+Brooklyn,2015,97,87,$38.3M,Brooklyn,FALSE,ACTRESS IN A LEADING ROLE
+Anomalisa,2015,92,71,$3.4M,Anomalisa,FALSE,ANIMATED FEATURE FILM
+Ex Machina,2015,92,86,$25.4M,Ex Machina,TRUE,VISUAL EFFECTS
+The Martian,2015,91,91,$228.4M,The Martian,FALSE,ACTOR IN A LEADING ROLE
+Inside Out,2015,98,89,$2.0M,Inside Out,TRUE,ANIMATED FEATURE FILM
+Shaun the Sheep Movie,2015,99,81,$19.4M,Shaun the Sheep Movie,FALSE,ANIMATED FEATURE FILM
+Straight Outta Compton,2015,89,91,$161.0M,Straight Outta Compton,FALSE,WRITING (Original Screenplay)
+Mad Max: Fury Road,2015,97,86,$153.6M,Mad Max: Fury Road,TRUE,PRODUCTION DESIGN
+Star Wars: The Force Awakens,2015,93,86,$123,Star Wars: The Force Awakens,FALSE,SOUND EDITING
+Carol,2015,94,74,$12.7M,Carol,FALSE,SOUND MIXING
+Creed,2015,95,89,$109.7M,Creed,FALSE,VISUAL EFFECTS
+Embrace of the Serpent,2015,96,85,$1.3M,Embrace of the Serpent,FALSE,FILM EDITING
+Song of the Sea,2014,99,92,$850.0K,Song of the Sea,FALSE,ACTRESS IN A LEADING ROLE
+The Grand Budapest Hotel,2014,92,86,$59.1M,The Grand Budapest Hotel,TRUE,ACTOR IN A SUPPORTING ROLE
+Selma,2014,99,86,$52.1M,Selma,TRUE,FOREIGN LANGUAGE FILM
+Birdman or (The Unexpected Virtue of Ignorance),2014,91,77,$42.3M,Birdman or (The Unexpected Virtue of Ignorance),TRUE,ANIMATED FEATURE FILM
+Last Days in Vietnam,2014,95,84,$408.7K,Last Days in Vietnam,FALSE,MUSIC (Original Score)
+Guardians of the Galaxy,2014,92,92,$333.7M,Guardians of the Galaxy,FALSE,MUSIC (Original Song)
+Nightcrawler,2014,95,85,$32.4M,Nightcrawler,FALSE,BEST PICTURE
+When Marnie Was There,2014,91,88,$314.3K,When Marnie Was There,FALSE,DOCUMENTARY (Feature)
+Captain America: The Winter Soldier,2014,90,92,$259.7M,Captain America: The Winter Soldier,FALSE,VISUAL EFFECTS
+Boyhood,2014,97,80,$25.4M,Boyhood,TRUE,WRITING (Original Screenplay)
+X-Men: Days of Future Past,2014,90,91,$233.9M,X-Men: Days of Future Past,FALSE,ANIMATED FEATURE FILM
+Big Hero 6,2014,89,91,$222.5M,Big Hero 6,TRUE,VISUAL EFFECTS
+Dawn of the Planet of the Apes,2014,90,88,$208.5M,Dawn of the Planet of the Apes,FALSE,ACTRESS IN A SUPPORTING ROLE
+How to Train Your Dragon 2,2014,92,90,$177.0M,How to Train Your Dragon 2,FALSE,VISUAL EFFECTS
+Gone Girl,2014,87,87,$167.8M,Gone Girl,FALSE,ANIMATED FEATURE FILM
+The Look of Silence,2014,96,90,$109.1K,The Look of Silence,FALSE,VISUAL EFFECTS
+Iris,2014,98,80,$1.3M,Iris,TRUE,ANIMATED FEATURE FILM
+Timbuktu,2014,98,77,$1.1M,Timbuktu,FALSE,ACTRESS IN A LEADING ROLE
+The Salt of the Earth,2014,95,90,$1.1M,The Salt of the Earth,FALSE,DOCUMENTARY (Feature)
+The Lone Ranger,2013,30,51,$89.3M,The Lone Ranger,FALSE,ACTOR IN A SUPPORTING ROLE
+Before Midnight,2013,98,82,$8.1M,Before Midnight,FALSE,FOREIGN LANGUAGE FILM
+The Tale of the Princess Kaguya,2013,100,90,$681.1K,The Tale of the Princess Kaguya,FALSE,DOCUMENTARY (Feature)
+All Is Lost,2013,94,63,$6.3M,All Is Lost,FALSE,MAKEUP AND HAIRSTYLING
+12 Years a Slave,2013,95,90,$56.7M,12 Years a Slave,TRUE,WRITING (Adapted Screenplay)
+The Missing Picture,2013,99,76,$51.6K,The Missing Picture,FALSE,ANIMATED FEATURE FILM
+Boy and the World,2013,93,76,$47.6K,Boy and the World,FALSE,SOUND EDITING
+Frozen,2013,90,85,$401.0M,Frozen,TRUE,ACTRESS IN A SUPPORTING ROLE
+Gravity,2013,95,80,$274.1M,Gravity,TRUE,FOREIGN LANGUAGE FILM
+Her,2013,94,82,$25.6M,Her,TRUE,ANIMATED FEATURE FILM
+Cutie and the Boxer,2013,95,75,$199.3K,Cutie and the Boxer,FALSE,ANIMATED FEATURE FILM
+Finding Vivian Maier,2013,95,89,$1.5M,Finding Vivian Maier,FALSE,CINEMATOGRAPHY
+The Wind Rises,2013,88,85,,The Wind Rises,FALSE,WRITING (Original Screenplay)
+The Square,2013,100,90,,The Square,FALSE,DOCUMENTARY (Feature)
+How to Survive a Plague,2012,98,82,$94.0K,How to Survive a Plague,FALSE,DOCUMENTARY (Feature)
+The Act of Killing,2012,95,85,$484.2K,The Act of Killing,FALSE,ANIMATED FEATURE FILM
+Moonrise Kingdom,2012,93,86,$45.5M,Moonrise Kingdom,FALSE,FOREIGN LANGUAGE FILM
+Skyfall,2012,92,86,$304.4M,Skyfall,TRUE,DOCUMENTARY (Feature)
+Amour,2012,93,82,$3.7M,Amour,TRUE,DOCUMENTARY (Feature)
+The Gatekeepers,2012,94,79,$2.4M,The Gatekeepers,FALSE,WRITING (Original Screenplay)
+Wreck-It Ralph,2012,87,86,$189.4M,Wreck-It Ralph,FALSE,SOUND EDITING
+Django Unchained,2012,87,91,$162.8M,Django Unchained,TRUE,ACTRESS IN A LEADING ROLE
+Argo,2012,96,90,$136.0M,Argo,TRUE,BEST PICTURE
+Silver Linings Playbook,2012,92,86,$132.1M,Silver Linings Playbook,TRUE,WRITING (Original Screenplay)
+ParaNorman,2012,89,72,,ParaNorman,FALSE,DOCUMENTARY (Feature)
+Frankenweenie,2012,87,70,,Frankenweenie,FALSE,ANIMATED FEATURE FILM
+Chasing Ice,2012,96,85,,Chasing Ice,FALSE,ACTOR IN A SUPPORTING ROLE
+The Muppets,2011,95,80,$88.6M,The Muppets,TRUE,FILM EDITING
+Hugo,2011,93,78,$73.8M,Hugo,TRUE,ACTRESS IN A LEADING ROLE
+Undefeated,2011,96,89,$561.1K,Undefeated,TRUE,ANIMATED FEATURE FILM
+Midnight in Paris,2011,93,83,$56.8M,Midnight in Paris,TRUE,ANIMATED FEATURE FILM
+The Artist,2011,95,87,$44.7M,The Artist,TRUE,MUSIC (Original Song)
+A Separation,2011,99,92,$331.7K,A Separation,TRUE,MUSIC (Original Song)
+Searching for Sugar Man,2011,95,92,$3.7M,Searching for Sugar Man,TRUE,ART DIRECTION
+Pina,2011,95,81,$3.5M,Pina,FALSE,DOCUMENTARY (Feature)
+Monsieur Lazhar,2011,97,86,$2.0M,Monsieur Lazhar,FALSE,WRITING (Original Screenplay)
+The Invisible War,2011,99,84,$19.6K,The Invisible War,FALSE,ACTOR IN A LEADING ROLE
+5 Broken Cameras,2011,96,88,$108.5K,5 Broken Cameras,FALSE,FOREIGN LANGUAGE FILM
+Rango,2011,88,69,,Rango,TRUE,DOCUMENTARY (Feature)
+The Social Network,2010,96,86,$96.9M,The Social Network,TRUE,DOCUMENTARY (Feature)
+The Fighter,2010,90,89,$93.6M,The Fighter,TRUE,FOREIGN LANGUAGE FILM
+The Town,2010,92,85,$92.2M,The Town,FALSE,DOCUMENTARY (Feature)
+Toy Story 3,2010,98,90,$415.0M,Toy Story 3,TRUE,DOCUMENTARY (Feature)
+Inside Job,2010,98,91,$4.3M,Inside Job,TRUE,ANIMATED FEATURE FILM
+How to Train Your Dragon,2010,99,91,$217.4M,How to Train Your Dragon,FALSE,FILM EDITING
+Tangled,2010,89,87,$200.8M,Tangled,FALSE,ACTOR IN A SUPPORTING ROLE
+The Illusionist,2010,90,79,$2.2M,The Illusionist,FALSE,ACTOR IN A SUPPORTING ROLE
+Waste Land,2010,100,90,$187.7K,Waste Land,FALSE,ANIMATED FEATURE FILM
+True Grit,2010,95,85,$171.0M,True Grit,FALSE,DOCUMENTARY (Feature)
+Restrepo,2010,96,88,$1.3M,Restrepo,FALSE,ANIMATED FEATURE FILM
+Up in the Air,2009,90,79,$83.8M,Up in the Air,FALSE,MUSIC (Original Song)
+Coraline,2009,90,73,$75.3M,Coraline,FALSE,CINEMATOGRAPHY
+Crazy Heart,2009,90,76,$39.5M,Crazy Heart,TRUE,DOCUMENTARY (Feature)
+Invictus,2009,76,75,$37.5M,Invictus,FALSE,ACTOR IN A LEADING ROLE
+Star Trek,2009,94,91,$257.7M,Star Trek,TRUE,DOCUMENTARY (Feature)
+The Blind Side,2009,66,85,$256.0M,The Blind Side,TRUE,ACTOR IN A LEADING ROLE
+Fantastic Mr. Fox,2009,93,85,$21.0M,Fantastic Mr. Fox,FALSE,ANIMATED FEATURE FILM
+A Prophet,2009,96,89,$2.1M,A Prophet,FALSE,ACTOR IN A LEADING ROLE
+Up,2009,98,90,,Up,TRUE,ACTOR IN A LEADING ROLE
+Trouble the Water,2008,96,86,$520.0K,Trouble the Water,FALSE,MAKEUP
+"Food, Inc.",2008,95,86,$4.4M,"Food, Inc.",FALSE,ACTRESS IN A LEADING ROLE
+Iron Man,2008,94,91,$318.3M,Iron Man,FALSE,ANIMATED FEATURE FILM
+The Class,2008,95,82,$3.8M,The Class,FALSE,FOREIGN LANGUAGE FILM
+Man on Wire,2008,100,87,$3.0M,Man on Wire,TRUE,ANIMATED FEATURE FILM
+The Wrestler,2008,98,88,$26.2M,The Wrestler,FALSE,DOCUMENTARY (Feature)
+The Dark Knight,2008,94,94,$2.0M,The Dark Knight,TRUE,DOCUMENTARY (Feature)
+The Hurt Locker,2008,97,84,$15.7M,The Hurt Locker,TRUE,SOUND EDITING
+Kung Fu Panda,2008,87,83,$143.5M,Kung Fu Panda,FALSE,FOREIGN LANGUAGE FILM
+Slumdog Millionaire,2008,91,90,$141.3M,Slumdog Millionaire,TRUE,DOCUMENTARY (Feature)
+Bolt,2008,89,74,$114.1M,Bolt,FALSE,ACTOR IN A LEADING ROLE
+WALL-E,2008,95,90,,WALL-E,TRUE,ACTOR IN A SUPPORTING ROLE
+Revanche,2008,96,83,,Revanche,FALSE,BEST PICTURE
+No Country for Old Men,2007,93,86,$74.3M,No Country for Old Men,TRUE,ANIMATED FEATURE FILM
+3:10 to Yuma,2007,89,86,$53.6M,3:10 to Yuma,FALSE,CINEMATOGRAPHY
+Persepolis,2007,96,92,$4.4M,Persepolis,FALSE,ANIMATED FEATURE FILM
+The Assassination of Jesse James by the Coward Robert Ford,2007,76,75,$3.9M,The Assassination of Jesse James by the Coward Robert Ford,FALSE,ANIMATED FEATURE FILM
+Taxi to the Dark Side,2007,100,90,$274.7K,Taxi to the Dark Side,TRUE,FOREIGN LANGUAGE FILM
+Sicko,2007,91,87,$24.5M,Sicko,FALSE,ACTOR IN A SUPPORTING ROLE
+Ratatouille,2007,96,87,$206.4M,Ratatouille,TRUE,SOUND MIXING
+Enchanted,2007,93,80,$127.7M,Enchanted,FALSE,ANIMATED FEATURE FILM
+Trumbo,2007,84,78,$108.3K,Trumbo,FALSE,CINEMATOGRAPHY
+No End in Sight,2007,96,94,$1.4M,No End in Sight,FALSE,DOCUMENTARY (Feature)
+Once,2006,97,91,$9.4M,Once,TRUE,DOCUMENTARY (Feature)
+Pan's Labyrinth,2006,95,91,$37.6M,Pan's Labyrinth,TRUE,ANIMATED FEATURE FILM
+An Inconvenient Truth,2006,93,79,$23.8M,An Inconvenient Truth,TRUE,MUSIC (Original Song)
+March of the Penguins,2005,94,81,$77.4M,March of the Penguins,TRUE,ACTOR IN A LEADING ROLE
+Enron: The Smartest Guys in the Room,2005,97,87,$4.1M,Enron: The Smartest Guys in the Room,FALSE,DOCUMENTARY (Feature)
+Harry Potter and the Goblet of Fire,2005,88,74,$290.0M,Harry Potter and the Goblet of Fire,FALSE,MUSIC (Original Song)
+Murderball,2005,98,89,$1.5M,Murderball,FALSE,ART DIRECTION
+Sideways,2004,97,79,$71.5M,Sideways,TRUE,DOCUMENTARY (Feature)
+Maria Full of Grace,2004,97,87,$6.5M,Maria Full of Grace,FALSE,DOCUMENTARY (Feature)
+Before Sunset,2004,94,91,$5.8M,Before Sunset,FALSE,DOCUMENTARY (Feature)
+Shrek 2,2004,89,69,$436.5M,Shrek 2,FALSE,ART DIRECTION
+Eternal Sunshine of the Spotless Mind,2004,92,94,$34.1M,Eternal Sunshine of the Spotless Mind,TRUE,DOCUMENTARY (Feature)
+The Incredibles,2004,97,75,$261.4M,The Incredibles,TRUE,WRITING (Adapted Screenplay)
+Harry Potter and the Prisoner of Azkaban,2004,90,86,$249.4M,Harry Potter and the Prisoner of Azkaban,FALSE,WRITING (Adapted Screenplay)
+Super Size Me,2004,92,72,$11.5M,Super Size Me,FALSE,ANIMATED FEATURE FILM
+Tupac: Resurrection,2003,78,90,$7.7M,Tupac: Resurrection,FALSE,WRITING (Original Screenplay)
+The Triplets of Belleville,2003,94,90,$7.0M,The Triplets of Belleville,FALSE,WRITING (Original Screenplay)
+Lost in Translation,2003,95,85,$44.6M,Lost in Translation,TRUE,MUSIC (Original Score)
+The Fog of War,2003,96,93,$4.2M,The Fog of War,TRUE,DOCUMENTARY (Feature)
+Capturing the Friedmans,2003,97,89,$3.1M,Capturing the Friedmans,FALSE,DOCUMENTARY (Feature)
+My Architect,2003,93,83,$2.7M,My Architect,FALSE,ANIMATED FEATURE FILM
+Finding Nemo,2003,99,86,,Finding Nemo,TRUE,MUSIC (Original Song)
+Spellbound,2002,97,83,$5.7M,Spellbound,FALSE,WRITING (Original Screenplay)
+About a Boy,2002,93,55,$40.6M,About a Boy,FALSE,DOCUMENTARY (Feature)
+The Lord of the Rings: The Two Towers,2002,95,95,$342.6M,The Lord of the Rings: The Two Towers,TRUE,DOCUMENTARY (Feature)
+Bowling for Columbine,2002,95,83,$21.2M,Bowling for Columbine,TRUE,DOCUMENTARY (Feature)
+Chicago,2002,86,83,$170.7M,Chicago,TRUE,ANIMATED FEATURE FILM
+"Monsters, Inc.",2001,96,90,$494.0K,"Monsters, Inc.",TRUE,DOCUMENTARY (Feature)
+Shrek,2001,88,90,$267.7M,Shrek,TRUE,WRITING (Adapted Screenplay)
+Winged Migration,2001,95,87,$10.8M,Winged Migration,FALSE,VISUAL EFFECTS
+Spirited Away,2001,97,96,$10.0M,Spirited Away,TRUE,DOCUMENTARY (Feature)
+The Taste of Others,2000,100,82,$635.3K,The Taste of Others,FALSE,ART DIRECTION
+"Crouching Tiger, Hidden Dragon",2000,97,86,$128.1M,"Crouching Tiger, Hidden Dragon",TRUE,MUSIC (Original Song)
